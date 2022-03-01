@@ -1,0 +1,266 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The deceiver deceived: or, The virgins revenge. Those that in loves wide grove delight to range, and please themselves with pretty charming change, delight to triumph o're the softest spoiles of yielding beauty, seldome scape the toiles, for love to take them has a thousand wiles. Tune of, Ah cruel bloody fate! This may be printed, R. LS.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1684-1686?</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 4 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B02894</idno>
+            <idno type="STC">Wing D515</idno>
+            <idno type="STC">Interim Tract Supplement Guide EBB65H[68]</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.20.f.8[105]</idno>
+            <idno type="EEBO-CITATION">99887093</idno>
+            <idno type="PROQUEST">ocm99887093</idno>
+            <idno type="VID">183298</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B02894)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 183298)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A2:3[68]; A5:2[89])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The deceiver deceived: or, The virgins revenge. Those that in loves wide grove delight to range, and please themselves with pretty charming change, delight to triumph o're the softest spoiles of yielding beauty, seldome scape the toiles, for love to take them has a thousand wiles. Tune of, Ah cruel bloody fate! This may be printed, R. LS.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill. (woodcuts).  </extent>
+               <publicationStmt>
+                  <publisher>Printed for J. Clark, VV. Thackery and T. Passinger.,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[between 1684-1686]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Verse: "Ah cruel maid give ore ..."</note>
+                  <note>Place, date of publication, and publisher's names from Wing.</note>
+                  <note>L copy trimmed.</note>
+                  <note>Reproduction of original in the Harvard University, Houghton Library and the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ballads, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb n="105" facs="tcp:183298:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 3 -->
+            <head>THE Deceiver deceived: Or, The Virgins Revenge.</head>
+            <argument>
+               <l>Thoſe that in Loves wide Grove delight to range,</l>
+               <l>And pleaſe themſelves with pretty charming change,</l>
+               <l>Delight to triumph o're the ſofteſt ſpoiles</l>
+               <l>Of yielding Beauty, ſeldome ſcape the toiles,</l>
+               <l>For Love to take them has a thouſand wiles.</l>
+            </argument>
+            <opener>Tune of, <hi>Ah cruel bloody fate!</hi>
+            </opener>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>This may be printed,</p>
+                        <closer>
+                           <signed>R. LS.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>
+               <figure/>
+            </p>
+            <p>
+               <figure/>
+            </p>
+            <sp>
+               <speaker>Man.</speaker>
+               <l>AH cruel Maid give ore</l>
+               <l>to puniſh him with ſcorn</l>
+               <l>Who has for you in ſtore</l>
+               <l>a flame as bright as morn.</l>
+               <l>Come dear be kind the Powr's of Love</l>
+               <l>their Virtues miſimploy'd</l>
+               <l>To make with ſuch care, a Creature ſo fair<g ref="char:punc">▪</g>
+               </l>
+               <l>if not to be enjoy'd.</l>
+            </sp>
+            <sp>
+               <speaker>Maid.</speaker>
+               <l>Tell me no more; in vain</l>
+               <l>will all your Courtſhip prove</l>
+               <l>I ſmile to hear you feign</l>
+               <l>a falſe pretended love:</l>
+               <l>What Gr<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ve is free from broken vows;</l>
+               <l>to yielding Virgins made</l>
+               <l>whom you let languiſh in their anguiſh<g ref="char:punc">▪</g>
+               </l>
+               <l>when to Love betray'd<g ref="char:punc">▪</g>
+               </l>
+            </sp>
+            <sp>
+               <speaker>Man.</speaker>
+               <l>It's true ſome gentle hours</l>
+               <l>I trifl'd in their arms</l>
+               <l>Yet no ſweet face but yours</l>
+               <l>cou'd make me own its Charms</l>
+               <l>The féeble Beauties they diſplaid</l>
+               <l>each moment ſeem'd to waſt</l>
+               <l>But your's my delight, is ſo dazling bright</l>
+               <l>it muſt for ever laſt,</l>
+            </sp>
+            <sp>
+               <speaker>Maid.</speaker>
+               <l>So flatter'd your ſmooth Tongue:</l>
+               <l>ſo were your looks addreſt</l>
+               <l>Such ſmiles about you hung,</l>
+               <l>ſuch liking you expreſt;</l>
+               <l>To thoſe whoſe ſenceleſs hearts you gaind</l>
+               <l>thoſe now that mourn their fate</l>
+               <l>In being undone, by truſting too ſoon:</l>
+               <l>though ſighs are breath'd too late.</l>
+            </sp>
+            <p>
+               <figure/>
+            </p>
+            <p>
+               <figure/>
+            </p>
+            <sp>
+               <speaker>Man.</speaker>
+               <l>Thats their own fault, in haſt</l>
+               <l>to entertain a flame,</l>
+               <l>Which in their cheeks cou'd blaſt</l>
+               <l>Th' Lillies and Roſe's ſtain:</l>
+               <l>Diſarm them of thoſe killing beams</l>
+               <l>which in your eyes appear</l>
+               <l>Thoſe eyes which are bright, thoſe eyes by whoſe light</l>
+               <l>my courſe, love bids me ſteer.</l>
+            </sp>
+            <sp>
+               <speaker>Maid.</speaker>
+               <l>In vain you try my heart</l>
+               <l>no Conqueſt there you'l gain,</l>
+               <l>Too feeble is your art</l>
+               <l>to make me ſuffer pain,</l>
+               <l>You ſeek a triumph there in vain</l>
+               <l>no Trophy you ſhall boaſt</l>
+               <l>But in what ſo fain you wou'd now obtain</l>
+               <l>you ſhall be ever croſſ.</l>
+            </sp>
+            <sp>
+               <speaker>Man.</speaker>
+               <l>Such cruelty can't live</l>
+               <l>within ſo fair a breaſt</l>
+               <l>A milder ſentence give</l>
+               <l>to me with love oppreſt,</l>
+               <l>O to a flame that burns like mine</l>
+               <l>ſome ſpeedy Cordial ply</l>
+               <l>Or he that till now, Love never made vow</l>
+               <l>for love of you muſt dye.</l>
+            </sp>
+            <sp>
+               <speaker>Maid.</speaker>
+               <l>No more of love to me</l>
+               <l>though you in earneſt were</l>
+               <l>As deaf as Seas I'de be,</l>
+               <l>for love i'de give deſpair</l>
+               <l>Revenge the wrongs the ſofter ſex</l>
+               <l>ſuſtain by your falſe wiles</l>
+               <l>Revenge falſe man, the Nymph thats un<g ref="char:EOLhyphen"/>done</l>
+               <l>by your deluding ſmiles.</l>
+            </sp>
+            <sp>
+               <speaker>Man.</speaker>
+               <l>Iuſt is your doom bright maid</l>
+               <l>juſt the disdain you ſhow</l>
+               <l>With ſcorn for ſcorn i'm paid</l>
+               <l>the pow'rs thus let me know</l>
+               <l>What 'tis to ſigh and pine for love</l>
+               <l>ſince I unmoved cou'd ſee</l>
+               <l>Beauties with tears &amp; their tender <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ears</l>
+               <l>kind Virgins ſigh for me.</l>
+            </sp>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed for <hi>J. Clark, VV.
+Thackery</hi> and <hi>T. Paſſinger</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
